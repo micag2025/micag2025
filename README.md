@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Michela!
+
+I'm a data analyst and I'm currently learning from DeepLearningAI digital platform how to use my Python skills in handeling with LLMs. Here you can find an overview of open source projects that I have achieved from the DeepLearninigAI.
+
+I'm looking to collaborate on Python projects.
+
+You can also find me on Linkedin.
 <!--
 **micag2025/micag2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
