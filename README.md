@@ -2,7 +2,9 @@
 
 I'm Michela!
 
-I'm a data analyst and I'm currently working in handeling with LLMs and AI agents applications. Here you can find an overview of open source projects that I have achieved till now!
+I'm a Data Analyst and I'm currently learning from DeepLearningAI digital platform how handeling with LLMs and AI agents applications using Python. Here you can find an overview of open source projects that I have achieved till now!
+
+Looking forward to collaborating on real-world projects, using Python and AI.
 
 You can also find me on Linkedin.
 <!--
