@@ -1,12 +1,16 @@
 ## Hi there 👋
 
-I'm Michela!
+I am Michela!
 
-I'm a Data Analyst and I'm currently learning from DeepLearningAI digital platform how handeling with LLMs and AI agents applications using Python. Here you can find an overview of open source projects that I have achieved till now!
+As Researcher, Data Analyst and Agentic AI Developer, I am currently collaborating with AI professionals across the [Ready Tensor](https://www.readytensor.ai/) and 
+[DeepLearning.AI](https://www.deeplearning.ai/courses/) digital platforms to design, manage, and deploy AI agent applications using Python. 
+My work focuses on driving innovation while promoting responsible and ethical AI development.
 
-Looking forward to collaborating on real-world projects, using Python and AI.
+Here, you can find an overview of the open-source projects I have developed so far.
 
-You can also find me on Linkedin.
+I look forward to collaborating with AI professionals on real-world projects that leverage Python and AI technologies.
+
+You can also contact me on [Linkedin](https://www.linkedin.com/in/michela-agostini-627546a7/).
 <!--
 **micag2025/micag2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
