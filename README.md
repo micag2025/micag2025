@@ -10,6 +10,7 @@ Here, you can find an overview of the open-source projects I have developed so f
 
 I look forward to collaborating with AI professionals on real-world projects that leverage Python and AI technologies.
 
+Past work (open-sources projects) can be found at (GitHub)[https://github.com/16032022]   
 You can also contact me on [Linkedin](https://www.linkedin.com/in/michela-agostini-627546a7/).
 <!--
 **micag2025/micag2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
