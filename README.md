@@ -12,7 +12,7 @@ I look forward to collaborating with AI professionals on real-world projects tha
 
 ---
 
-> Some earlier projects can be found on my former GitHub account: [link](https://github.com/16032022).
+> _Note_ : Some earlier projects can be found on my former GitHub account: [link](https://github.com/16032022).
 
 ---
   
